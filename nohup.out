@@ -1,0 +1,107 @@
+
+> ghost@0.11.3 start /root/ghost/ghost
+> node index
+
+[31mWARNING: Ghost is attempting to use a direct method to send email. 
+It is recommended that you explicitly configure an email service.[0m
+[32mHelp and documentation can be found at http://support.ghost.org/mail.[0m
+
+Ghost is running in development... 
+Listening on 127.0.0.1:2368 
+Url configured as: http://localhost:2368 
+Ctrl+C to shut down
+[0mGET /ghost/settings/apps/ [32m200 [0m78.569 ms - -[0m
+[0mGET /ghost/vendor.css?v=e4408cc204 [32m200 [0m16.874 ms - -[0m
+[0mGET /ghost/ghost.css?v=e4408cc204 [32m200 [0m22.847 ms - -[0m
+[0mGET /ghost/ghost.js?v=e4408cc204 [32m200 [0m20.450 ms - -[0m
+[0mGET /ghost/vendor.js?v=e4408cc204 [32m200 [0m20.260 ms - -[0m
+[0mGET /ghost/ [32m200 [0m55.774 ms - -[0m
+[0mGET /ghost/vendor.js?v=e4408cc204 [32m200 [0m3.202 ms - -[0m
+[0mGET / [0m- [0m- ms - -[0m
+[0mGET /ghost/img/ghosticon.jpg [32m200 [0m14.159 ms - 2499[0m
+[0mGET / [32m200 [0m155.674 ms - -[0m
+[0mGET /assets/js/jquery.fitvids.js?v=e4408cc204 [32m200 [0m11.031 ms - -[0m
+[0mGET /assets/js/index.js?v=e4408cc204 [32m200 [0m11.186 ms - -[0m
+[0mGET /assets/css/screen.css?v=e4408cc204 [32m200 [0m11.328 ms - -[0m
+
+> ghost@0.11.3 start /root/ghost/ghost
+> node index
+
+[31mWARNING: Ghost is attempting to use a direct method to send email. 
+It is recommended that you explicitly configure an email service.[0m
+[32mHelp and documentation can be found at http://support.ghost.org/mail.[0m
+
+Ghost is running in development... 
+Listening on 127.0.0.1:2368 
+Url configured as: http://localhost:2368 
+Ctrl+C to shut down
+[0mGET /ghost/img/ghosticon.jpg [32m200 [0m7.710 ms - 2499[0m
+[0mGET / [32m200 [0m242.422 ms - -[0m
+[0mGET /assets/css/screen.css?v=41a0d5b18b [32m200 [0m12.314 ms - -[0m
+[0mGET /assets/js/index.js?v=41a0d5b18b [32m200 [0m9.862 ms - -[0m
+[0mGET /assets/js/jquery.fitvids.js?v=41a0d5b18b [32m200 [0m9.742 ms - -[0m
+[0mGET /favicon.ico [32m200 [0m1.177 ms - -[0m
+[0mGET / [36m304 [0m142.807 ms - -[0m
+[0mGET /favicon.ico [32m200 [0m0.201 ms - -[0m
+[0mGET / [36m304 [0m139.136 ms - -[0m
+[0mGET /favicon.ico [32m200 [0m0.496 ms - -[0m
+[0mGET / [36m304 [0m164.324 ms - -[0m
+[0mGET /favicon.ico [32m200 [0m0.317 ms - -[0m
+[0mGET / [36m304 [0m123.803 ms - -[0m
+[0mGET /favicon.ico [32m200 [0m0.631 ms - -[0m
+[0mGET /ghost/ [32m200 [0m46.666 ms - -[0m
+[0mGET /ghost/vendor.css?v=41a0d5b18b [32m200 [0m11.952 ms - -[0m
+[0mGET /ghost/ghost.css?v=41a0d5b18b [32m200 [0m6.305 ms - -[0m
+[0mGET /ghost/ghost.js?v=41a0d5b18b [32m200 [0m3.998 ms - -[0m
+[0mGET /ghost/vendor.js?v=41a0d5b18b [32m200 [0m6.539 ms - -[0m
+[0mGET /ghost/api/v0.1/settings/?type=blog%2Ctheme%2Cprivate [32m200 [0m70.560 ms - -[0m
+[0mGET /ghost/api/v0.1/users/me/?include=roles&status=all [32m200 [0m60.060 ms - 725[0m
+[0mGET /ghost/api/v0.1/notifications/ [32m200 [0m37.570 ms - 20[0m
+[0mGET /ghost/api/v0.1/posts/?page=1&limit=15&status=all&staticPages=all&include=tags [32m200 [0m53.188 ms - -[0m
+[0mGET /ghost/api/v0.1/settings/?type=blog%2Ctheme%2Cprivate [32m200 [0m34.653 ms - -[0m
+[0mGET /ghost/api/v0.1/tags/?limit=all [32m200 [0m49.563 ms - 426[0m
+[0mGET /ghost/api/v0.1/users/?limit=all&include=roles [32m200 [0m42.874 ms - 816[0m
+[0mGET /ghost/api/v0.1/posts/?page=1&limit=15&status=all&staticPages=all&include=tags [32m200 [0m34.509 ms - -[0m
+[0mGET /ghost/api/v0.1/users/?limit=all&status=invited&include=roles [32m200 [0m61.487 ms - 103[0m
+[0mGET /ghost/api/v0.1/users/?page=1&limit=20&status=active&include=roles [32m200 [0m67.500 ms - 813[0m
+[0mGET /ghost/api/v0.1/posts/?page=1&limit=15&status=all&staticPages=all&include=tags [32m200 [0m37.071 ms - -[0m
+[0mGET /ghost/api/v0.1/users/?page=1&limit=20&status=active&include=roles [32m200 [0m63.322 ms - 813[0m
+[0mGET /ghost/api/v0.1/users/?limit=all&status=invited&include=roles [32m200 [0m59.508 ms - 103[0m
+[0mGET /ghost/api/v0.1/posts/?page=1&limit=15&status=all&staticPages=all&include=tags [32m200 [0m31.783 ms - -[0m
+[0mGET /ghost/api/v0.1/settings/?type=blog%2Ctheme%2Cprivate [32m200 [0m26.044 ms - -[0m
+[0mGET /ghost/api/v0.1/tags/?page=1&limit=15&include=count.posts [32m200 [0m29.718 ms - 443[0m
+[0mGET /ghost/api/v0.1/settings/?type=blog%2Ctheme%2Cprivate [32m200 [0m18.805 ms - -[0m
+[0mGET /ghost/api/v0.1/settings/?type=blog%2Ctheme%2Cprivate [32m200 [0m18.865 ms - -[0m
+[0mGET /ghost/img/slackicon.png [32m200 [0m4.475 ms - 18136[0m
+[0mGET /ghost/api/v0.1/settings/?type=blog%2Ctheme%2Cprivate [32m200 [0m30.404 ms - -[0m
+[0mGET /ghost/api/v0.1/settings/?type=blog%2Ctheme%2Cprivate [32m200 [0m14.469 ms - -[0m
+[0mGET /ghost/api/v0.1/configuration/timezones/ [32m200 [0m13.847 ms - -[0m
+[0mGET /ghost/api/v0.1/settings/?type=blog%2Ctheme%2Cprivate [32m200 [0m27.008 ms - -[0m
+[0mGET /ghost/api/v0.1/posts/?page=1&limit=15&status=all&staticPages=all&include=tags [32m200 [0m41.347 ms - -[0m
+[0mGET /ghost/api/v0.1/users/?page=1&limit=20&status=active&include=roles [32m200 [0m42.148 ms - 813[0m
+[0mGET /ghost/api/v0.1/users/?limit=all&status=invited&include=roles [32m200 [0m36.059 ms - 103[0m
+[0mGET /ghost/api/v0.1/posts/?page=1&limit=15&status=all&staticPages=all&include=tags [32m200 [0m26.560 ms - -[0m
+[0mGET /ghost/1/ [32m200 [0m30.858 ms - -[0m
+[0mGET /ghost/api/v0.1/settings/?type=blog%2Ctheme%2Cprivate [32m200 [0m23.139 ms - -[0m
+[0mGET /ghost/api/v0.1/users/me/?include=roles&status=all [32m200 [0m31.686 ms - 725[0m
+[0mGET /favicon.ico [32m200 [0m0.234 ms - -[0m
+[0mGET /ghost/api/v0.1/posts/?page=1&limit=15&status=all&staticPages=all&include=tags [32m200 [0m29.346 ms - -[0m
+[0mGET /ghost/api/v0.1/notifications/ [32m200 [0m24.175 ms - 20[0m
+[0mGET / [36m304 [0m83.032 ms - -[0m
+[0mGET / [32m200 [0m120.527 ms - -[0m
+[0mGET /ghost/ [32m200 [0m21.277 ms - -[0m
+[0mGET /ghost/api/v0.1/settings/?type=blog%2Ctheme%2Cprivate [32m200 [0m22.049 ms - -[0m
+[0mGET /ghost/api/v0.1/users/me/?include=roles&status=all [32m200 [0m34.479 ms - 725[0m
+[0mGET /ghost/api/v0.1/notifications/ [32m200 [0m26.949 ms - 20[0m
+[0mGET /ghost/api/v0.1/posts/?page=1&limit=15&status=all&staticPages=all&include=tags [32m200 [0m36.277 ms - -[0m
+[0mGET /ghost/api/v0.1/users/?limit=all&status=invited&include=roles [32m200 [0m84.779 ms - 103[0m
+[0mGET /ghost/api/v0.1/users/?page=1&limit=20&status=active&include=roles [32m200 [0m91.731 ms - 813[0m
+[0mGET /ghost/api/v0.1/settings/?type=blog%2Ctheme%2Cprivate [32m200 [0m24.729 ms - -[0m
+[0mGET /ghost/api/v0.1/configuration/timezones/ [32m200 [0m13.365 ms - -[0m
+[0mGET /ghost/api/v0.1/settings/?type=blog%2Ctheme%2Cprivate [32m200 [0m22.349 ms - -[0m
+[0mGET /ghost/api/v0.1/settings/?type=blog%2Ctheme%2Cprivate [32m200 [0m17.392 ms - -[0m
+[0mGET /ghost/api/v0.1/tags/?limit=all [32m200 [0m65.989 ms - 426[0m
+[0mGET /ghost/api/v0.1/users/?limit=all&include=roles [32m200 [0m77.620 ms - 816[0m
+[0mGET /ghost/api/v0.1/tags/?page=1&limit=15&include=count.posts [32m200 [0m27.226 ms - 443[0m
+[0mGET /ghost/api/v0.1/settings/?type=blog%2Ctheme%2Cprivate [32m200 [0m22.518 ms - -[0m
+[0mGET /ghost/api/v0.1/settings/?type=blog%2Ctheme%2Cprivate [32m200 [0m16.559 ms - -[0m
